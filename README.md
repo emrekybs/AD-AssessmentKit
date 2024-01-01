@@ -3,8 +3,9 @@
 
 
 # AD-SecurityAudit.sh
-Purpose: The AD-SecurityAudit.sh script is designed for conducting comprehensive security audits of Active Directory (AD) environments. 
-It utilizes a range of tools to assess various aspects of AD security, making it a vital tool for penetration testing and vulnerability assessment in AD domains.
+Purpose: The AD-SecurityAudit.sh script is specifically tailored for security audits of Active Directory (AD) environments. 
+It focuses on assessing AD security without requiring user credentials, relying only on the domain name and Domain Controller IP address. 
+This approach is particularly useful for initial reconnaissance and vulnerability identification in AD domains.
 
 <img src="https://github.com/emrekybs/AutoMapExec/blob/main/1.png">
 
@@ -18,8 +19,9 @@ It utilizes a range of tools to assess various aspects of AD security, making it
 
 
 # AutoMapExec.sh
-Purpose: AutoMapExec.sh is an automation script for network mapping and security scanning. 
-It integrates various tools to perform an in-depth security assessment of network environments and AD structures.
+Purpose: AutoMapExec.sh is an automated script for network mapping and security scanning
+that requires user credentials (username and password)along with the domain and Domain Controller IP address.
+This requirement allows for more in-depth and authenticated analysis of network environments and AD structures, making it ideal for detailed security assessments and penetration testing.
 
 <img src="https://github.com/emrekybs/AutoMapExec/blob/main/2.png">
 
