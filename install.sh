@@ -11,6 +11,8 @@ echo "Installing Python3 and pip..."
 sudo apt-get install -y python3 python3-pip
 echo "Installing CrackMapExec..."
 sudo apt install crackmapexec -y
+echo "Installing Impacket..."
+sudo apt install python3-impacket -y
 
 # Clone SilentHound repository
 echo "Cloning SilentHound..."
@@ -34,7 +36,7 @@ python3 -m venv .
 source bin/activate
 pip install .
 clear
-# Clean up and final message
+
 echo "Setup complete! SilentHound and NetExec are ready to use."
 echo "NetExec is located in $NETEXEC_FINAL_DIR."
 echo "Remember to navigate to $NETEXEC_FINAL_DIR and run 'source bin/activate' before using NetExec."
