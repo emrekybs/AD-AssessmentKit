@@ -31,6 +31,6 @@ AProvides in-depth security assessment and penetration testing, requiring domain
 * Detailed Execution Overview: Concludes with a summary of successful execution, signifying the completion of a comprehensive scanning and enumeration process.
 
 # 𝗜𝗡𝗦𝗧𝗔𝗟𝗟𝗔𝗧𝗜𝗢𝗡 𝗜𝗡𝗦𝗧𝗥𝗨𝗖𝗧𝗜𝗢𝗡𝗦
-      $ git clone https://github.com/emrekybs/AutoMapExec.git
-      $ cd AutoMapExec
+      $ git clone https://github.com/emrekybs/AD-AssessmentKit.git
+      $ cd AD-AssessmentKit
       $  chmod +x * && bash install.sh
