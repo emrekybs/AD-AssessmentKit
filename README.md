@@ -1,5 +1,5 @@
 [![EmreKybs](https://img.shields.io/badge/MadeBy-EmreKybs-greem)
-# AutoMapExec
+# ADassesmentKit
 These scripts serve distinct purposes: AD-SecurityAudit.sh is suited for initial reconnaissance without user credentials,
 while AutoMapExec.sh provides a more authenticated and thorough examination of network and AD security.
 
