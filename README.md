@@ -1,12 +1,10 @@
 [![EmreKybs](https://img.shields.io/badge/MadeBy-EmreKybs-greem)
-# ADassesmentKit
+# AD-AssesmentKit
 These scripts serve distinct purposes: AD-SecurityAudit.sh is suited for initial reconnaissance without user credentials,
 while AutoMapExec.sh provides a more authenticated and thorough examination of network and AD security.
 
 # AD-SecurityAudit.sh
-The AD-SecurityAudit.sh script is specifically tailored for security audits of Active Directory (AD) environments. 
-It focuses on assessing AD security without requiring user credentials, relying only on the domain name and Domain Controller IP address. 
-This approach is particularly useful for initial reconnaissance and vulnerability identification in AD domains.
+Focuses on initial reconnaissance and vulnerability identification in AD domains, requiring only the domain name and Domain Controller IP address.
 
 <img src="https://github.com/emrekybs/AutoMapExec/blob/main/1.png">
 
@@ -20,9 +18,7 @@ This approach is particularly useful for initial reconnaissance and vulnerabilit
 
 
 # AutoMapExec.sh
-AutoMapExec.sh is an automated script for network mapping and security scanning
-that requires user credentials (username and password)along with the domain and Domain Controller IP address.
-This requirement allows for more in-depth and authenticated analysis of network environments and AD structures, making it ideal for detailed security assessments and penetration testing.
+AProvides in-depth security assessment and penetration testing, requiring domain, Domain Controller IP, and user credentials for a more thorough analysis.
 
 <img src="https://github.com/emrekybs/AutoMapExec/blob/main/2.png">
 
