@@ -1,5 +1,5 @@
 [![EmreKybs](https://img.shields.io/badge/MadeBy-EmreKybs-greem)
-# AD-AssesmentKit
+# AD-AssessmentKit
 These tools are ideal for network administrators and cybersecurity professionals seeking to assess and enhance the security posture of AD environments and network infrastructures.
 
 # AD-SecurityAudit.sh
