@@ -17,7 +17,7 @@ Focuses on initial reconnaissance and vulnerability identification in AD domains
 
 
 # AutoMapExec.sh
-AProvides in-depth security assessment and penetration testing, requiring domain, Domain Controller IP, and user credentials for a more thorough analysis.
+Provides in-depth security assessment and penetration testing, requiring domain, Domain Controller IP, and user credentials for a more thorough analysis.
 
 <img src="https://github.com/emrekybs/AutoMapExec/blob/main/2.png">
 
