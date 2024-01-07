@@ -30,7 +30,5 @@ Provides in-depth security assessment and penetration testing, requiring domain,
 * Diverse Command Execution and Data Retrieval: Performs a range of system commands and retrieves the SAM database for in-depth credential analysis.
 * Detailed Execution Overview: Concludes with a summary of successful execution, signifying the completion of a comprehensive scanning and enumeration process.
 
-# 𝗜𝗡𝗦𝗧𝗔𝗟𝗟𝗔𝗧𝗜𝗢𝗡 𝗜𝗡𝗦𝗧𝗥𝗨𝗖𝗧𝗜𝗢𝗡𝗦
-      $ git clone https://github.com/emrekybs/AD-AssessmentKit.git
-      $ cd AD-AssessmentKit
-      $  chmod +x * && bash install.sh
+# 𝗜𝗡𝗦𝗧𝗔𝗟𝗟𝗔𝗧𝗜𝗢𝗡 
+      $ git clone https://github.com/emrekybs/AD-AssessmentKit.git && cd AD-AssessmentKit && chmod +x * && ./install.sh
