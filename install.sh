@@ -13,6 +13,9 @@ echo "Installing CrackMapExec..."
 sudo apt install crackmapexec -y
 echo "Installing Impacket..."
 sudo apt install python3-impacket -y
+pip3 install ldap3
+pip3 install colorama
+pip3 install alive-progress
 
 # Clone SilentHound repository
 echo "Cloning SilentHound..."
