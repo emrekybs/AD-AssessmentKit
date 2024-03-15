@@ -31,4 +31,4 @@ Provides in-depth security assessment and penetration testing, requiring domain,
 * Detailed Execution Overview: Concludes with a summary of successful execution, signifying the completion of a comprehensive scanning and enumeration process.
 
 # 𝗜𝗡𝗦𝗧𝗔𝗟𝗟𝗔𝗧𝗜𝗢𝗡 
-       git clone https://github.com/bloodbane0/AD-AssessmentKit.git && cd AD-AssessmentKit && chmod +x * && ./install.sh
+       git clone https://github.com/emrekybs/AD-AssessmentKit.git && cd AD-AssessmentKit && chmod +x * && ./install.sh
